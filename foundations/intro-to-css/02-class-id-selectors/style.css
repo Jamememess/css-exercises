@@ -1,0 +1,40 @@
+
+
+.impar{
+    background-color: rgb(255, 182, 193);
+    font-family:  Verdana, "DejaVu Sans",  sans-serif; 
+    /* sans-serif es una generica ya que no necesita comillas ese guion emula el espacio */
+
+}
+
+.adjust-font-size{
+    font-size: 24px;
+
+}
+
+#second{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+
+}
+
+#fourth{
+    background-color:rgb(102, 255, 102);
+    font-weight:bold;
+}
+
+
+
+
+/*
+Todos los elementos con numeración impar : un fondo rojo/rosa claro y una lista de fuentes que contienen Verdanay DejaVu Sanscon sans-serif como alternativa
+El segundo elemento : texto azul y un tamaño de fuente de 36 px.
+El tercer elemento : además de los estilos para todos los elementos impares, agregue un tamaño de fuente de 24 px
+El cuarto elemento : un fondo verde claro, un tamaño de fuente de 24 px y negrita.
+
+*/
+
+
+
+
+

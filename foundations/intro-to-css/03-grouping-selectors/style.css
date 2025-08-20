@@ -1,0 +1,28 @@
+.click-me,
+.no-clicl-me{
+    font-size: 28px;
+    font-family: Helvetica , "Times New Roman", sans-serif;
+
+}
+
+
+.click-me{
+background-color: black;
+color: #ffffff;
+
+}
+
+
+.no-click-me{
+background-color: yellow;
+
+
+}
+
+/*  
+El primer elemento : un fondo negro y texto blanco.
+El segundo elemento : un fondo amarillo
+Ambos elementos : un tamaño de fuente de 28 px y una lista de fuentes que contiene Helveticay Times New Roman, con 
+   sans-serifcomo alternativa
+
+*/

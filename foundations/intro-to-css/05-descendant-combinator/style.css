@@ -1,0 +1,69 @@
+/*
+Solo los pelementos que son descendientes del divelemento deben tener un fondo amarillo, texto rojo, 
+un tamaño de fuente de 20 px y alineación centrada.
+*/
+/*
+.container .text{
+
+background-color: yellow;
+color: red;
+font-size: 20px;
+text-align: center;
+
+}
+
+*/
+/*
+div p {
+
+background-color: green;
+color: red;
+font-size: 20px;
+text-align: center;
+}
+
+*/
+/*
+body div p {
+
+background-color: violet;
+color: red;
+font-size: 20px;
+text-align: center;
+}
+
+*/
+
+/*
+div .text{
+
+background-color: yellow;
+color: red;
+font-size: 20px;
+text-align: center;
+}
+*/
+/*
+html body div p {
+
+background-color: violet;
+color: red;
+font-size: 20px;
+text-align: center;
+}
+
+*/
+
+html body div .text{
+
+background-color: blue;
+color: red;
+font-size: 20px;
+text-align: center;
+}
+
+
+
+
+
+
